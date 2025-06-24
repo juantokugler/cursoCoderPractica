@@ -127,7 +127,6 @@ function ventaCelulares(){
                             console.log(carrito.productos)
                         break;
                 }
-               
             }
         }
         break;
@@ -176,7 +175,6 @@ function ventaCelulares(){
                             console.log(carrito.productos)
                         break;
                 }
-               
             }
         }
         break;
